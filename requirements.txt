@@ -3,3 +3,7 @@ tensorflow
 keras
 numpy
 mediapipe
+tf_keras
+deepface
+cmake
+dlib
